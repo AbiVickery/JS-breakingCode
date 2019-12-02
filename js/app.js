@@ -59,7 +59,17 @@ var pkm = 'Pokemon';
 // console.log(pkm); // pkm is not defined
 console.log(pika);
 
-
+var morm = 'MoreMarvel';
+{
+    var ult = 'Ultron';
+    let vis = 'Vision';
+    const thr = 'Thor';
+    console.log(ult);
+    console.log(vis);
+    console.log(thr);
+}
+// console.log(morm); // morm is not defined (morm stands for more marvel)
+console.log(ult);
 
 var hello = 'world';
 let world = 'hello';
