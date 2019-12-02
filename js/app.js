@@ -71,6 +71,26 @@ var morm = 'MoreMarvel';
 // console.log(morm); // morm is not defined (morm stands for more marvel)
 console.log(ult);
 
+function hero() {
+    var hero = [
+        'Iron Man', 'Captain America', 'Hawkeye', 'Black Widow',
+        'Hulk', 'Falcon', 'Vision', 'Scarlet Witch', 'War Machine'
+    ];
+    var antihero = "Deadpool";
+    var villain = [
+        'Mandarin', 'Ultron', 'Redskull', 'Circus of Crime', 'Taskmaster',
+        'Abomination', 'Hydra', 'Hyperion', 'Magneto', 'Shocker'
+    ];
+    var hero2 = [
+        'Spider Man', 'Torch', 'Doctor Strange'
+    ];
+    var antihero2 = '';
+    var villain2 = [
+        'Venom', 'Sandman', 'Rhino', 'Doc ock',
+        'Vulture', 'Galactus', 'Silver Surfer', 'Dormamu', 'Nightmare'
+    ]
+}
+
 var hello = 'world';
 let world = 'hello';
 const helloWorld = 'hello world!';
