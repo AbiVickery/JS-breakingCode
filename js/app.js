@@ -91,9 +91,7 @@ function hero() {
     ]
 }
 
-var hello = 'world';
-let world = 'hello';
-const helloWorld = 'hello world!';
+
 
 
 
