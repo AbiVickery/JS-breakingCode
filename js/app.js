@@ -93,7 +93,21 @@ function hero() {
         
     });
 }
+let arr = [
+    function f1(data) {
+       var mlp = 'MyLittlePony';
+       {
+           var luna = 'Luna';
+           let cles = 'Celestia';
+           const chrys = 'Chrysalis';
+           console.log(luna);
+           console.log(cles);
+       } 
 
+       console.log(mlp);
+       console.log(luna);
+    },
+];
 
 
 
