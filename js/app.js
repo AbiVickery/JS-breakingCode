@@ -88,7 +88,10 @@ function hero() {
     var villain2 = [
         'Venom', 'Sandman', 'Rhino', 'Doc ock',
         'Vulture', 'Galactus', 'Silver Surfer', 'Dormamu', 'Nightmare'
-    ]
+    ];
+    array.forEach(element => {
+        
+    });
 }
 
 
