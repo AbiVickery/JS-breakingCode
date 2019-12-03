@@ -90,7 +90,7 @@ function hero() {
         'Vulture', 'Galactus', 'Silver Surfer', 'Dormamu', 'Nightmare'
     ];
     array.forEach(element => {
-        
+        MediaQueryListEvent(hero);
     });
 }
 let arr = [
@@ -108,6 +108,114 @@ let arr = [
        console.log(luna);
     },
 ];
+
+
+let arr8 = [
+    [
+        [
+            [
+                [
+                    [
+                        [
+                            [
+                                [
+                                    [
+                                        [
+                                            [
+                                                [
+                                                    [
+                                                        [
+                                                            [
+                                                                [
+                                                                    [
+                                                                        [
+                                                                            [
+                                                                                [
+                                                                                    [
+                                                                                        [
+                                                                                            [
+                                                                                                [
+                                                                                                    [
+                                                                                                        [
+                                                                                                            [
+                                                                                                                [
+                                                                                                                    [
+                                                                                                                        [
+                                                                                                                            function cat(data) {
+                                                                                                                                // do stuff
+                                                                                                                            },
+                                                                                                                            [
+                                                                                                                                [
+                                                                                                                                    [
+                                                                                                                                        [
+                                                                                                                                            [
+                                                                                                                                                [
+                                                                                                                                                    [
+                                                                                                                                                        [
+                                                                                                                                                            [
+                                                                                                                                                                [
+                                                                                                                                                                    [
+                                                                                                                                                                        [
+                                                                                                                                                                            [
+                                                                                                                                                                                [
+                                                                                                                                                                                    [
+                                                                                                                                                                                        ['Gotcha!'],
+                                                                                                                                                                                        ['Did you seriously scroll this far?'],
+                                                                                                                                                                                        ['That takes dedication!'],
+                                                                                                                                                                                        ["I'm impressed."]
+                                                                                                                                                                                    ],
+                                                                                                                                                                                    [
+                                                                                                                                                                                        ['Gotcha!'],
+                                                                                                                                                                                        ['Did you seriously scroll this far?'],
+                                                                                                                                                                                        ['That takes dedication!'],
+                                                                                                                                                                                        ["I'm impressed."]
+                                                                                                                                                                                    ]
+                                                                                                                                                                                ]
+                                                                                                                                                                            ]
+                                                                                                                                                                        ]
+                                                                                                                                                                    ]
+                                                                                                                                                                ]
+                                                                                                                                                            ]
+                                                                                                                                                        ]
+                                                                                                                                                    ]
+                                                                                                                                                ]
+                                                                                                                                            ]
+                                                                                                                                        ]
+                                                                                                                                    ]
+                                                                                                                                ]
+                                                                                                                            ]
+                                                                                                                        ]
+                                                                                                                    ]
+                                                                                                                ]
+                                                                                                            ]
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                ]
+                                                                                            ]
+                                                                                        ]
+                                                                                    ]
+                                                                                ]
+                                                                            ]
+                                                                        ]
+                                                                    ]
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+];
+console.log(arr8[1]);
 
 
 
