@@ -71,14 +71,14 @@ var morm = 'MoreMarvel';
 // console.log(morm); // morm is not defined (morm stands for more marvel)
 console.log(ult);
 
-function hero() {
+function MarvelMCU() {
     var hero = [
         'Iron Man', 'Captain America', 'Hawkeye', 'Black Widow',
         'Hulk', 'Falcon', 'Vision', 'Scarlet Witch', 'War Machine'
     ];
     var antihero = "Deadpool";
     var villain = [
-        'Mandarin', 'Ultron', 'Redskull', 'Circus of Crime', 'Taskmaster',
+        '(fake)Mandarin', 'Ultron', 'Redskull', 'Circus of Crime', 'Taskmaster',
         'Abomination', 'Hydra', 'Hyperion', 'Magneto', 'Shocker'
     ];
     var hero2 = [
@@ -88,6 +88,15 @@ function hero() {
     var villain2 = [
         'Venom', 'Sandman', 'Rhino', 'Doc ock',
         'Vulture', 'Galactus', 'Silver Surfer', 'Dormamu', 'Nightmare'
+    ];
+    var aos = [
+        'Phil Coulson', 'Nick Fury', 'Maria Hill'
+    ];
+    var gotg = [
+        'Star Lord', 'Gamora', 'Rocket Raccoon', 'Groot', 'Drax', 'Mantis', 'Yondu', 'Cosmo'
+    ];
+    var gotgvil = [
+        'Ego', 'Thanos', 'Ronan'
     ];
     array.forEach(element => {
         MediaQueryListEvent(hero);
@@ -110,113 +119,16 @@ let arr = [
 ];
 
 
-let arr8 = [
-    [
-        [
-            [
-                [
-                    [
-                        [
-                            [
-                                [
-                                    [
-                                        [
-                                            [
-                                                [
-                                                    [
-                                                        [
-                                                            [
-                                                                [
-                                                                    [
-                                                                        [
-                                                                            [
-                                                                                [
-                                                                                    [
-                                                                                        [
-                                                                                            [
-                                                                                                [
-                                                                                                    [
-                                                                                                        [
-                                                                                                            [
-                                                                                                                [
-                                                                                                                    [
-                                                                                                                        [
-                                                                                                                            function cat(data) {
-                                                                                                                                // do stuff
-                                                                                                                            },
-                                                                                                                            [
-                                                                                                                                [
-                                                                                                                                    [
-                                                                                                                                        [
-                                                                                                                                            [
-                                                                                                                                                [
-                                                                                                                                                    [
-                                                                                                                                                        [
-                                                                                                                                                            [
-                                                                                                                                                                [
-                                                                                                                                                                    [
-                                                                                                                                                                        [
-                                                                                                                                                                            [
-                                                                                                                                                                                [
-                                                                                                                                                                                    [
-                                                                                                                                                                                        ['Gotcha!'],
-                                                                                                                                                                                        ['Did you seriously scroll this far?'],
-                                                                                                                                                                                        ['That takes dedication!'],
-                                                                                                                                                                                        ["I'm impressed."]
-                                                                                                                                                                                    ],
-                                                                                                                                                                                    [
-                                                                                                                                                                                        ['Gotcha!'],
-                                                                                                                                                                                        ['Did you seriously scroll this far?'],
-                                                                                                                                                                                        ['That takes dedication!'],
-                                                                                                                                                                                        ["I'm impressed."]
-                                                                                                                                                                                    ]
-                                                                                                                                                                                ]
-                                                                                                                                                                            ]
-                                                                                                                                                                        ]
-                                                                                                                                                                    ]
-                                                                                                                                                                ]
-                                                                                                                                                            ]
-                                                                                                                                                        ]
-                                                                                                                                                    ]
-                                                                                                                                                ]
-                                                                                                                                            ]
-                                                                                                                                        ]
-                                                                                                                                    ]
-                                                                                                                                ]
-                                                                                                                            ]
-                                                                                                                        ]
-                                                                                                                    ]
-                                                                                                                ]
-                                                                                                            ]
-                                                                                                        ]
-                                                                                                    ]
-                                                                                                ]
-                                                                                            ]
-                                                                                        ]
-                                                                                    ]
-                                                                                ]
-                                                                            ]
-                                                                        ]
-                                                                    ]
-                                                                ]
-                                                            ]
-                                                        ]
-                                                    ]
-                                                ]
-                                            ]
-                                        ]
-                                    ]
-                                ]
-                            ]
-                        ]
-                    ]
-                ]
-            ]
+let arr1 = [
+    1 = 'Troll',
+    CustomElementRegistry() = [
+        2 = 'olo',
+        menubar() = [
+            3 = 'lol'
         ]
     ]
-];
-console.log(arr8[1]);
-
+]
+console.log(arr1)
 
 
 
