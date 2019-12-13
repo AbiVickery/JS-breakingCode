@@ -186,3 +186,8 @@ for (let a = 0; a < Array.length; a++) {
         }
     }
 }
+
+function callback() {
+    requestAnimationFrame;
+    Float64Array;
+}
