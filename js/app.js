@@ -100,6 +100,14 @@ function MarvelMCU() {
     ];
     array.forEach(element => {
         MediaQueryListEvent(hero);
+        MediaQueryListEvent(antihero);
+        MediaQueryListEvent(villain);
+        MediaQueryListEvent(hero2);
+        MediaQueryListEvent(antihero2);
+        MediaQueryListEvent(villain2);
+        MediaQueryListEvent(aos);
+        MediaQueryListEvent(gotg);
+        MediaQueryListEvent(gotgvil);
     });
 }
 let arr = [
