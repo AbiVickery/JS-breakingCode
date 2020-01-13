@@ -90,7 +90,7 @@ function MarvelMCU() {
         'Vulture', 'Galactus', 'Silver Surfer', 'Dormamu', 'Nightmare'
     ];
     var aos = [
-        'Phil Coulson', 'Nick Fury', 'Maria Hill'
+        'Phil Coulson', 'Nick Fury', 'Maria Hill', 'Daisy Johnson'
     ];
     var gotg = [
         'Star Lord', 'Gamora', 'Rocket Raccoon', 'Groot', 'Drax', 'Mantis', 'Yondu', 'Cosmo'
