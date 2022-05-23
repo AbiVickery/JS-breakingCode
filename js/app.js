@@ -200,134 +200,268 @@ function callback() {
     Float64Array;
 }
 
-function z1() {
-    console.log('z.');
-    // do stuff
+function alphabet() {
+    function z1() {
+        console.log('z.');
+        // do stuff
+    }
+    function y1() {
+        console.log('y.');
+        // do stuff
+        z1();
+    }
+    function x1() {
+        console.log('x.');
+        // do stuff
+        y1();
+    }
+    function w1() {
+        console.log('w.');
+        // do stuff
+        x1();
+    }
+    function v1() {
+        console.log('v.');
+        // do stuff
+        w1();
+    }
+    function u1() {
+        console.log('u.');
+        // do stuff
+        v1();
+    }
+    function t1() {
+        console.log('t.');
+        // do stuff
+        u1();
+    }
+    function s1() {
+        console.log('s.');
+        // do stuff
+        t1();
+    }
+    function r1() {
+        console.log('r.');
+        // do stuff
+        s1();
+    }
+    function q1() {
+        console.log('q.');
+        // do stuff
+        r1();
+    }
+    function p1() {
+        console.log('p.');
+        // do stuff
+        q1();
+    }
+    function o1() {
+        console.log('o.');
+        // do stuff
+        p1();
+    }
+    function n1() {
+        console.log('n.');
+        // do stuff
+        o1();
+    }
+    function m1() {
+        console.log('m.');
+        // do stuff
+        n1();
+    }
+    function l1() {
+        console.log('l.');
+        // do stuff
+        m1();
+    }
+    function k1() {
+        console.log('k.');
+        // do stuff
+        l1();
+    }
+    function j1() {
+        console.log('j.');
+        // do stuff
+        k1();
+    }
+    function i1() {
+        console.log('i.');
+        // do stuff
+        j1();
+    }
+    function h1() {
+        console.log('h.');
+        // do stuff
+        i1();
+    }
+    function g1() {
+        console.log('g.');
+        // do stuff
+        h1();
+    }
+    function f1() {
+        console.log('f.');
+        // do stuff
+        g1();
+    }
+    function e1() {
+        console.log('e.');
+        // do stuff
+        f1();
+    }
+    function d1() {
+        console.log('d.');
+        // do stuff
+        e1();
+    }
+    function c1() {
+        console.log('c.');
+        // do stuff
+        d1();
+    }
+    function b1() {
+        console.log('b.');
+        // do stuff
+        c1();
+    }
+    function a1() {
+        console.log('a.');
+        // do stuff
+        b1();
+    }
+    a1();
 }
+alphabet();
 
-function y1() {
-    console.log('y.');
-    z1();
-}
+// function z1() {
+//     console.log('z.');
+//     // do stuff
+// }
 
-function x1() {
-    console.log('x.');
-    y1();
-}
+// function y1() {
+//     console.log('y.');
+//     z1();
+// }
 
-function w1() {
-    console.log('w.');
-    x1();
-}
+// function x1() {
+//     console.log('x.');
+//     y1();
+// }
 
-function v1() {
-    console.log('v.');
-    w1();
-}
+// function w1() {
+//     console.log('w.');
+//     x1();
+// }
 
-function u1() {
-    console.log('u.');
-    v1();
-}
+// function v1() {
+//     console.log('v.');
+//     w1();
+// }
 
-function t1() {
-    console.log('t.');
-    u1();
-}
+// function u1() {
+//     console.log('u.');
+//     v1();
+// }
 
-function s1() {
-    console.log('s.');
-    t1();
-}
+// function t1() {
+//     console.log('t.');
+//     u1();
+// }
 
-function r1() {
-    console.log('r.');
-    s1();
-}
+// function s1() {
+//     console.log('s.');
+//     t1();
+// }
 
-function q1() {
-    console.log('q.');
-    r1();
-}
+// function r1() {
+//     console.log('r.');
+//     s1();
+// }
 
-function p1() {
-    console.log('p.');
-    q1();
-}
+// function q1() {
+//     console.log('q.');
+//     r1();
+// }
 
-function o1() {
-    console.log('o.');
-    p1();
-}
+// function p1() {
+//     console.log('p.');
+//     q1();
+// }
 
-function n1() {
-    console.log('n.');
-    o1();
-}
+// function o1() {
+//     console.log('o.');
+//     p1();
+// }
 
-function m1() {
-    console.log('m.');
-    n1();
-}
+// function n1() {
+//     console.log('n.');
+//     o1();
+// }
 
-function l1() {
-    console.log('l.');
-    m1();
-}
+// function m1() {
+//     console.log('m.');
+//     n1();
+// }
 
-function k1() {
-    console.log('k.');
-    l1();
-}
+// function l1() {
+//     console.log('l.');
+//     m1();
+// }
 
-function j1() {
-    console.log('j.');
-    k1();
-}
+// function k1() {
+//     console.log('k.');
+//     l1();
+// }
 
-function i1() {
-    console.log('i.');
-    j1();
-}
+// function j1() {
+//     console.log('j.');
+//     k1();
+// }
 
-function h1() {
-    console.log('h.');
-    i1();
-}
+// function i1() {
+//     console.log('i.');
+//     j1();
+// }
 
-function g1() {
-    console.log('g.');
-    h1();
-}
+// function h1() {
+//     console.log('h.');
+//     i1();
+// }
 
-function f1() {
-    console.log('f.');
-    g1();
-}
+// function g1() {
+//     console.log('g.');
+//     h1();
+// }
 
-function e1() {
-    console.log('e.');
-    f1();
-}
+// function f1() {
+//     console.log('f.');
+//     g1();
+// }
 
-function d1() {
-    console.log('d.');
-    e1();
-}
+// function e1() {
+//     console.log('e.');
+//     f1();
+// }
 
-function c1() {
-    console.log('c.');
-    d1();
-}
+// function d1() {
+//     console.log('d.');
+//     e1();
+// }
 
-function b1() {
-    console.log('b.');
-    c1();
-}
+// function c1() {
+//     console.log('c.');
+//     d1();
+// }
 
-function a1() {
+// function b1() {
+//     console.log('b.');
+//     c1();
+// }
+
+/* function a1() {
     console.log('a.');
     b1();
-}
+} */
 
 a1();
